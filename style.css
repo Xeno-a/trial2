@@ -1,0 +1,106 @@
+body {
+  background-color: #ccffcc;
+  color: black;
+}
+.ref {
+  margin-top: 20px;
+  border: 2px black solid;
+  margin-bottom: 10px;
+  font-size: 880%;
+  text-align: center;
+  border-radius: 10px;
+  background: linear-gradient(To right, #bbe273, rgb(2, 68, 2));
+}
+#navbar ul {
+  padding: 5px;
+  height: 18px;
+  list-style-type: none;
+  text-align: center;
+  background-color: #89b92f;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  border: black 3px solid;
+}
+#navbar ul li {
+  display: inline;
+}
+#navbar ul li a {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+  background-color: #89b92f;
+  color: darkslategray;
+  border-radius: 10px;
+}
+
+#navbar ul li a:hover {
+  border: rgb(232, 248, 163) 3px solid;
+  background-color: rgb(2, 54, 5);
+  color: rgb(181, 236, 164);
+}
+
+p {
+  display: inline;
+  float: left;
+  width: 850px;
+  background-color: #89b92f;
+  font-size: 150%;
+  font-family: "Times New Roman", Times, serif;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 2px black solid;
+}
+.image1 {
+  float: right;
+  margin-left: 0px;
+  margin-top: 50px;
+  border: 2px black solid;
+}
+.submit {
+  display: inline;
+  margin-left: 800px;
+  margin-top: 50px;
+  margin-top: 10px;
+  background-color: #89b92f;
+  border: 2px black solid;
+}
+#footer {
+  background-color: #89b92f;
+  color: #000;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  clear: both;
+  text-align: center;
+  text-decoration: none;
+  height: 45px;
+  border-radius: 5px;
+  font-size: 100%;
+  border: 2px black solid;
+}
+#footer ul li {
+  display: inline;
+}
+#footer ul li a {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+  background-color: #89b92f;
+  color: darkslategray;
+  border-radius: 10px;
+}
+
+#footer ul li a:hover {
+  border: rgb(232, 248, 163) 3px solid;
+  background-color: rgb(2, 54, 5);
+  color: rgb(181, 236, 164);
+}
